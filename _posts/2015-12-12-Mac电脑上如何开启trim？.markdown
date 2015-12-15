@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Mac电脑上如何开启trim？"
+date:   2015-12-12 20:42:11 +0800
+categories: MacOS
+---
+
+自从Mac OSX 10.10.4开始，苹果官方提供了一个专门用来打开trim功能的命令 **trimforce**，所以，以后再也不用其他软件或者其他有风险的命令来在Mac中开启trim了
+
+``` bash
+sudo trimforce enable
+```
+
+希望能够帮到有需要的朋友。
