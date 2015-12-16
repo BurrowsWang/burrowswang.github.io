@@ -15,12 +15,7 @@ url: "http://burrowswang.github.io" # the base hostname & protocol for your site
 github_username:  BurrowsWang
 
 # Build settings
-markdown: kramdown
-kramdown:
-  input: GFM
-  use_coderay: true
-  coderay:
-    coderay_line_numbers: true
-    coderay_css: class
+markdown: redcarpet
 
-highlighter: pygments # default python pygments have been replaced by pygments.rb
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript","tables", "with_toc_data"]
