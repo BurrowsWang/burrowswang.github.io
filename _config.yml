@@ -18,3 +18,9 @@ github_username:  BurrowsWang
 markdown: kramdown
 kramdown:
   input: GFM
+  use_coderay: true
+  coderay:
+    coderay_line_numbers: true
+    coderay_css: class
+
+highlighter: pygments # default python pygments have been replaced by pygments.rb
