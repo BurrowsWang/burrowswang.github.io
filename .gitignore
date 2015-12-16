@@ -1,5 +1,6 @@
 # Xcode
 #
+.sass-cache/
 _site/
 build/
 *.pbxuser

@@ -135,14 +135,13 @@ code {
 
 code {
     padding: 1px 5px;
-    line-height: 1.45;
     background-color: rgba(0,0,0,0.04);
 }
 
 pre {
-    padding: 8px 12px;
+    padding: 16px;
     overflow-x: auto;
-    border: 1px solid #ddd;
+    line-height: 1.45;
     background-color: #f7f7f7;
 
     > code {
