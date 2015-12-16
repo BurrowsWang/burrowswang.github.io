@@ -1,2 +1,5 @@
 # burrowswang.github.io
-Belongs to burrowswang.
+
+Sourcecode of my [personal notepad](http://burrowswang.github.io/).
+
+Powered by [jekyll](http://jekyllrb.com/).
