@@ -1,7 +1,7 @@
 # burrowswang.github.io
 
-Sourcecode of my [jottings](http://burrowswang.github.io/).
+Sourcecode of my [jottings](http://burrows.wang/).
 
-[http://burrowswang.github.io/](http://burrowswang.github.io/)
+[http://burrows.wang/](http://burrows.wang/)
 
 Powered by [jekyll](http://jekyllrb.com/).
