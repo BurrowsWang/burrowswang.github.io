@@ -44,7 +44,7 @@ In Objective-c, we declare our initialization method as follows:
 - (instancetype)initWithKelvin:(double)kelvin;
 ```
 
-In Swift, as initialization method name is determined, if we don't provide parameter name, which initialization method we are calling would be confusing.
+But in Swift, as initialization method name is determined, if we don't provide parameter name, which initialization method we are calling would be ambiguous.
 
 ``` swift
 init(fahrenheit: Double)
