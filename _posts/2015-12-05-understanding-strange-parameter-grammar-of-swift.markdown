@@ -5,6 +5,9 @@ date:   2015-12-05 18:33:09 +0800
 categories: Swift
 ---
 
+This article is out-dated now. Check the newest rules: [First parameter in Swift](http://burrows.wang/swift/2016/07/22/first-parameter-in-swift.html)
+
+
 # Why no external name for the first parameter?
 
 As described in [Apple's document](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Methods.html#//apple_ref/doc/uid/TP40014097-CH15-ID236):
