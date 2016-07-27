@@ -5,8 +5,9 @@ date:   2016-07-27 18:53:09 +0800
 categories: Swift
 ---
 
-This article is copyed from [Apple Swift Blog](https://developer.apple.com/swift/blog/?id=10).
-And related WWDC session can be found [here](https://developer.apple.com/videos/play/wwdc2015/414/).
+>This article is copyed from [Apple Swift Blog](https://developer.apple.com/swift/blog/?id=10).
+>And related WWDC session can be found [here](https://developer.apple.com/videos/play/wwdc2015/414/).
+>
 
 Types in Swift fall into one of two categories: first, “value types”, where each instance keeps a unique copy of its data, usually defined as a `struct`, `enum`, or tuple. The second, “reference types”, where instances share a single copy of the data, and the type is usually defined as a `class`. In this post we explore the merits of value and reference types, and how to choose between them.
 
