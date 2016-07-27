@@ -110,7 +110,7 @@ a {
  * Blockquotes
  */
 blockquote {
-    font: 16px Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font: 16px $base-font-family;
     color: $grey-color;
     border-left: 4px solid #ddd;
     padding-left: 15px;
